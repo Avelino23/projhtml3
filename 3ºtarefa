@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Projeto</title>
+</head>
+
+<body>
+  <header>
+    <h1>Meu Site</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Página Principal</a></li>
+        <li><a href="sobre.html">Sobre a Clínica</a></li>
+        <li><a href="horarios.html">Horário de Atendimento</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Página Principal</h2>
+    <img src="caminho-da-imagem.jpg" alt="Imagem ilustrativa">
+    <p>Uma breve descrição sobre a clínica.</p>
+  </main>
+
+  <footer>
+    <p>Informações de contato:</p>
+    <p>Telefone: (XX) XXXX-XXXX</p>
+    <p>Email: contato@clinica.com</p>
+  </footer>
+</body>
+
+</html>
